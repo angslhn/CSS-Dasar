@@ -1,0 +1,46 @@
+/* Universal selector */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Type selector */
+
+h1 {
+    color: rgb(230, 62, 25);
+}
+
+/* Class selector */
+
+.makanan {
+    color: rgb(58, 193, 31);
+    font-size: 16px;
+}
+
+/* Id selector */
+
+#minuman {
+    color: rgb(58, 193, 31);
+    font-size: 16px;
+}
+
+/* Child selector */
+
+h3>b {
+    color: rgb(58, 193, 31);
+}
+
+/* Decendant selector */
+h3 b {
+    color: rgb(58, 193, 31);
+}
+
+/* Adjacent sibling selector */
+h2+p {
+    color: red;
+}
+
+/* General sibling selector */
+h4~p {
+    color: chocolate;
+}
