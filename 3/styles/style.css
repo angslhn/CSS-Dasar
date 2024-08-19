@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.artikel {
+    font-size: 20px;
+}
+
+.credit {
+    font-size: 15px;
+}
+
+.penulis {
+    color: rgb(12, 111, 240);
+}
+
+p {
+    font-size: 15px;
+    text-align: justify;
+}
+
+.paragraf {
+    width: 65%;
+}
