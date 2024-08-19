@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Aturan terakhir */
+
+i {
+    color: crimson;
+}
+
+i {
+    color: yellowgreen;
+}
+
+b {
+    color: rgb(240, 134, 12); /* Level 1 */
+}
+
+p b {
+    color: rgb(214, 136, 20); /* Level 2 */
+}
+
+p b {
+    color: rgb(0, 13, 255) !important; /* Level 3 */
+}
+
+p {
+    font-size: 100%;
+}
+
+p#pendahuluan {
+    font-size: 75%;
+}
