@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    padding: 10px;
+}
+
+/* Color */
+
+/* Background color */
+.kota {
+    text-align: center;
+    border: 2px black dashed;
+    background-color: rgb(56, 54, 57);
+}
+
+/* Foreground color */
+
+/* Color name */
+
+.kota h1 {
+    font-size: 26px;
+    color: springgreen;
+}
+
+/* Hex code */
+.kota h2 {
+    font-size: 20px;
+    color: #2ce780;
+}
+
+.kota .deskripsi {
+    width: 75%;
+    padding-left: 13%;
+}
+
+/* Rgba value */
+.kota .deskripsi p {
+    text-align: justify;
+    font-size: 15px;
+    color: rgb(47, 194, 113);
+}
+
+/* Hsla value */
+.kota .deskripsi .paragraf-2{
+    color: hsl(150, 70%, 57%);
+}
