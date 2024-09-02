@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+body {
+    padding: 10px;
+}
+
+.biodata {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+
+.nama {
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: rgb(19, 212, 212);
+    width: 50%;
+    height: 50%;
+}
+
+.kota {
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: rgb(9, 216, 216);
+    width: 50%;
+    height: 50%;
+}
+
+.paragraf {
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: rgb(9, 216, 216);
+    overflow: scroll;
+    width: 500px;
+    height: 200px;
+}
