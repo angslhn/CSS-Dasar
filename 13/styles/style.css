@@ -1,0 +1,55 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nama-1 {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.nama-1 {
+    /* Semua Sisi */
+    margin: 20px;
+}
+
+.nama-2 {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.nama-2 {
+    /* Atas-Bawah Kiri-Kanan */
+    margin: 50px 20px;
+}
+
+.nama-3 {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.nama-3 {
+    /* Atas Kiri-Kanan Bawah*/
+    margin: 30px 50px 30px;
+}
+
+.nama-4 {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.nama-4 {
+    /* Atas Kanan Bawah Kiri */
+    margin: 5px 10px 20px 30px;
+}
