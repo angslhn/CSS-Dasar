@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.all-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid black;
+    transform: translate(0, 7.5%);
+}
+
+.text-1 {
+    background-color: aquamarine;
+    border: 2px solid black;
+    width: 240px;
+    /* Semua sisi */
+    padding: 20px;
+    text-align: center;
+}
+
+.text-2 {
+    background-color: aqua;
+    border: 2px solid black;
+    width: 240px;
+    /* Atas-Bawah Kiri-Kanan */
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.text-3 {
+    background-color: pink;
+    border: 2px solid black;
+    width: 300px;
+    /* Atas Kiri-Kanan Bawah */
+    padding: 10px 30px 25px;
+    text-align: center;
+}
+
+.text-4 {
+    background-color: rgb(176, 246, 135);
+    border: 2px solid black;
+    width: 300px;
+    /* Atas Bawah Kanan Kiri */
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
