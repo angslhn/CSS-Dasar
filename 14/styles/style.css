@@ -1,0 +1,10 @@
+h1 {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: outside;
+}
